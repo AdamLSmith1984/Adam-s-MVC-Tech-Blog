@@ -1,4 +1,5 @@
-# MVC-Tech-Blog
+# Adam-s-MVC-Tech-Blog
+
 
 ## Table of Contents
 1. [Description](#description)
@@ -51,6 +52,8 @@ Now that your database and tables are created you can seed the database with the
 
 After your database is seeded with information you are able to view, edit, and make new posts using your local server.  To start the server type the command "npm start" into your terminal while in the root directory and navigate to http://localhost:3001/ in your browser.  This will take you to the hompeage and from there you can interact with the blog site.  To view the application in its current deployed environment visit [Heroku Deployment](https://adams-mvc-d6032bf90438.herokuapp.com/)
 
+Sample video of deployed app:
+[Video](https://drive.google.com/file/d/19ZGP-dXYza3N_Qdv0r3WT6SYAb6CzoF-/view)
 
 
 
@@ -70,4 +73,5 @@ After your database is seeded with information you are able to view, edit, and m
 
 
 
-https://drive.google.com/file/d/19ZGP-dXYza3N_Qdv0r3WT6SYAb6CzoF-/view
+
+
