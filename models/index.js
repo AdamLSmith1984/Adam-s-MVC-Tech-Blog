@@ -1,6 +1,6 @@
 // use index.js to create associations between models
 // import all models
-const Post = require('./post');
+const Post = require('./posts');
 const User = require('./User');
 const Comment = require('./Comment');
 
